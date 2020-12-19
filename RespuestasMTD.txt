@@ -1,0 +1,20 @@
+A) Minimo 0 , B) Minimo 2 , c) Minimo 3 ,D) Minimo 1
+A) Minimo 0 , B) Minimo 2 , c) Minimo 3 ,D) Minimo 1
+A) Vacio , B) {2,5} , c) {9,0}  ,D) {2}
+A) Vacio , B) {1,2,3,5} , c) {1,2,3,4}  ,D) {2,5,4,6}
+A) un valor de boleano , B) verdadero , c) un operador logico ,D) una oracion verdadero
+A) Distributiva , B) Asociativa , c) Imdopotencia , D) Ninguna
+A) aRb ∧ aRb1 -> b1 =b , B) aRb ∧ bRa , C) aRa D) aRb v aRb1 -> b1 =b
+A) Distributiva , B) Asociativa , c) Imdopotencia , D) Ninguna
+A) aRa  B) aRb -> bRa , C) aRb ∧ bRc -> aRc , D) aRb
+A) aRa  B) aRb -> bRa , C) aRb ∧ bRc -> aRc , D) aRb
+A) aRa  B) aRb -> bRa , C) aRb ∧ bRc -> aRc , D) aRb
+A) Dorance Moreno , B) Camino Sebastian , C) steven , D) miguel
+A) Equivalencia , B) Implicasion , C) Inferencia, D) Ninguna
+A) aRa  B) aRb -> bRa , C) aRb ∧ bRc -> aRc , D) aRb
+A) Equivalencia , B) Orden Parcial , C) Orden Estricto, D) Todas
+A) Equivalencia , B) Orden Parcial , C) Orden Estricto, D) Todas
+A) Equivalencia , B) Orden Parcial , C) Orden Estricto, D) Todas
+A) Inyectiva , B) Sobreyectiva , C) Total , D)Biyectiva
+A) Inyectiva , B) Sobreyectiva , C) Total , D)Biyectiva
+A) Inyectiva , B) Sobreyectiva , C) Total , D)Biyectiva

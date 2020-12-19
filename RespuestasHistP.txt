@@ -1,0 +1,20 @@
+A) Charles Babbage ,B) Herman Hollerith	,C) Gottfried Wilhelm Leibniz	, D) Augusta Ada Byron			
+A)	1975 , B) 1801 ,C) 1852	, D) 1935			
+A)	1615 , B)  1614	, C) 1612	, D)1613			
+A) Charles Babbage ,B)	Gottfried	,C) Wilhelm Schickard	,D)	Herman Hollerith		
+A)	la maquina Analítico, B) La Máquina Analítica	,C)	la maquina de turing	, D)	Todas las anteriores	
+A)	Wilhelm Schickard ,B)	Charles Babbage ,C)  Ada Lovelace, D) Herman Hollerith			
+A)	1912 ,B)  1911	,C)	1913 ,D)	1910		
+A) Ada Lovelace, B) Wilhelm Leibniz	,C) Herman Hollerith ,D)Alan Turing			
+A)	Harvard Mark IV	,B)	Harvard Mark III,C) Harvard Mark I	, D) Harvard Mark II
+A) 2001,B) 1977	,C) 1946,D) 1930			
+A) 1947	,B) 1957 ,C) 1997 ,D) 1927			
+A) 1950	,B) 1958,C) 1960 ,D) 1964			
+A) IBM 360, B) IBM 650 ,C) IBM 5100, D) IBM Mark II			
+A) Bill Gates y Paul Allen ,B) Bill Gates y Steve Jobs		,C) Steve Wozniak y Bill Gates ,D) Mike Markkula y Richard Stallman	
+A)  Intel 4000 ,B)  Intel 4002 ,C)	Intel 4001 ,D) Intel 4004			
+A) Bill Gates y Paul Allen ,B) Bill Gates y Steve Jobs 	,C) Steve Wozniak y Bill Gates ,D) Mike Markkula y Richard Stallman			
+A) Tim Berners-Lee y Steve Jobs	,B) Steve Jobs y Bill Gates , C) Linus Torvalds, Bill Gates, y Steve Jobs	,D)  Steve Jobs, Steve Wozniak y Mike Markkula				
+A) Apple I , B)  Apple II, C) IBM PC ,D) Windows 1.0			
+A) MS - DOS	, B) Windows 1.0	,C) Linux	, D) Mac OS			
+A) 1980	, B) 1985, C) Nunca se Presentó , D) 2010			

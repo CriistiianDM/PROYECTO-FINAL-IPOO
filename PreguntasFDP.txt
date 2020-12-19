@@ -1,0 +1,20 @@
+¿ int,char,string y boolean son:
+¿ Un booleano es: 
+¿ Un tipo de dato numerico entero es:
+¿ Un tipo de dato decimal es?
+¿ Un tipo de dato de texto es?
+¿ tipo de dato que se utiliza para indicar que la funcion no regresa parametros
+¿ cual es un condicional?
+¿ cual es un bucle?
+¿ cual de estos tipos datos es un arreglo?
+¿ como se define corretamente una constante
+¿ que es lo que no se puede declarar en la programacion funcional
+¿ que es una constante en programacion es?
+¿ X<3 que significa?
+¿ que significa x=5?
+¿ que significa X==Y?
+¿ que significa && en un codicional if?
+¿ que significa || en un condicional if?
+¿ cual de estos es un blucle?
+¿ x>=3 que significa?
+¿ x¡= 1 que significa?

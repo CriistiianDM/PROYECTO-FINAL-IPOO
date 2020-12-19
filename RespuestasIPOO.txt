@@ -1,0 +1,21 @@
+A)Con su tipo de dato B)con su nombre C)con su valor D)con numeral
+A)Públicos B)privados C)públicos,privados,protegidos D)conjuntos,privados
+A)clase<nombreClase> B)Clase nombreClase C)Class<nombreClase> D)class nombreClase
+A)Regreso y ingreso B)Cambio y entrega C)Retorno y entrega D)Setter y Getter
+A)Construtor B)Destructor C)Puntero D)Ninguna de las anteriores
+A)ofstream B)ifstream C)Puntero D)ninguna de las anteriores
+A)ifstream B)Destructor C)Paso por referencia D)ninguna de las anteriores
+A)fstream B)ifstream C)ofstream D)ninguna de las anteriores
+A)iterativa B)recursiva C)indefinida D)ninguna de las anteriores
+A)Disruptor B)puntero C)constructor D)destructor
+A)eleccion,Acumulacion B)Conflicto,Accion C)Fusion,Disyuncion D)Agregacion,composición
+A) 1 a 8MB  B) 15 a 18 MB  C) 120 a 130 MB  D) 1 a 8 GB
+A)Escritura,Lectura B)Estatica,Dinamica C)Encriptada,Desencriptada D)Didactica,Estetica
+A)memoria corta B)memoria estatica C)memoria estoica D)memoria dinamica
+A) $ B) % C) & D) #
+A) & B) ¡ C) {} D) *
+A)Paso por puntero,Paso por referencia B)Pasos por coalición C)Pasos por inferencia D)Pasos por restitución
+A)memoria estatica B)memoria de reserva C)memoria dinamica D)Ninguna de las anteriores
+A)Perdidas de funciones B)Perdidas de variables C)perdidas de memoria D)ninguna de las anteriores
+adyacentes desordenados,Este es?
+A)La ordenacion por seccion B)La ordenacion circular C)la ordenación burbuja D)ninguna de las anteriores

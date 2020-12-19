@@ -1,0 +1,20 @@
+A)Bocinas, Mouse, Teclado, B)Monitor, Impresora, Bocinas , C)USB, Impresora, Teclado , D)Monitor, Teclado, Mouse
+A)Pagina WEB , B)Navegadores, C)Correo Electrónico, D)Buscadores
+A)Software de aplicación , B)Power Poin, C)Herramientas de Comunicación , D)Software libre y comercial    
+A)Software, B)Software de Aplicación,C)Hardware,D)Herramientas de Información 
+A) Un sistema Operativo, B) Un Lenguaje de Programación, C) Un Programa de Aplicación ,D) Una Base de datos 
+A) Linux ,B) Windows, C) Word, D) UNIX  
+A) Hoja de cálculo, B) Paquetes de presentación, C) Procesadores de Texto, D) Sistemas Operativos 
+A) Unidades de Procesamiento ,B) Unidades de salida ,C) Unidades Almacenamiento ,D) Unidades Entrada 
+A) Tablet, B) Disco Duro , C) CPU ,D) Computadora.
+ A) Entrada y Salida , B) Hardware y Software, C) Teclado y Mouse , D) Basico y Comercial
+A) Intangible ,B) Visual , C) Tangible ,D) Auditivo. 
+A) Auditivo  ,B) Tangible  ,C) Visual ,D) Intangible.
+A) Software de red y local , B) Software Libre y Comercial, C) Software de Sistema, Aplicación y Programación
+A) Interfaz gráfica ,B) Explorador de archivos ,C) Paint, D) Calculadora de window
+A) Memoria RAM ,B) Disco Duro ,C) Memoria USB, D) CD y DVD 
+A)Todos los dispositivos físicos de la computadora ,B)Componente principal de la computadora que se encarga de decodificar los códigos de operación de instrucciones ,C)La parte lógica de la computadora (programas), D)Almacena programas y los datos con que trabaja la computadora 
+A)Almacena los programas y los datos con que trabaja la computadora ,B)Se encarga de decodificar los códigos de operación de instrucciones y efectúa las operaciones aritméticas y lógicas ,C)Almacena información de manera masiva y no volátil. ,D)Es utilizado para crear y editar documentos, fotografías, audios, videos, ingresar a internet, etc.
+A)Icono ,B)Botón inicio , C)Acceso directo , D)Sistema operativo
+A)Aprendizajes en conjunto ,B)Aprendizajes individuales ,C)Aprendizajes en conjunto e individuales ,D)Todas las anteriores
+A) Un sitio que permite almacenar información para que todo el mundo la modifique. ,B) Es una Bitácora de trabajo. ,C) Redes sociales que permiten intercambiar información., D) sitio para publicar informacion personal 

@@ -1,0 +1,20 @@
+A) Funcion de acceso a datos B) Instruciones de acceso a datos C)R// Tipos de datos D) ninguna de las anteriores
+A)R//true o false B)1 o 4 C) int o string D)ninguna de las anteriores
+A)R//int B)String C)void D)ninguna de las anteriores
+A)int B)double C)string D)ninguna de las anteriores
+A)double B)Boolean C)String D) ninguna de las anteriores 
+A)char B)void C)string D) ninguna de las anteriores
+A) if/else B) string pedro C) boolean X D) ninguna de las anteriores
+A) if/else B) vector objetos{} C) for D) ninguna de las anteriores
+A) x{,} B) bolean X C) String Vector D) int vector
+A)char x B) void funtion y() C)const D) ninguna de las anteriores
+A) variables B) constantes C) funciones D) ninguna de las anteriores
+A)Un dato que varia B) un dato no variable C) un dato nulo D) un valor no fijo
+A) X esta elevada a 3 B) tres es menor que X C) 3 es mayor que X D) X es igual a 3
+A)x se declara como 5 B)x es divisor de 5 C)x es primo con 5 D)x es un multiplo
+A)X es igual a Y true sino false B) que son iguales C) que X vale mas que Y
+A) y B) o C) no D) si
+A) o B) es C) y D) por
+A)if B)else if C)while D)else
+A) x mayor o igual a 3 B) x menor a 3 C) x igual 3 D) x diferente a 3
+A) X menor o igual a 1 B)X diferente a 1 C)todas las anteriores D) ninguna de las anteriores

@@ -1,0 +1,20 @@
+¿En C++ al declarar una variable o vector como se empieza?
+¿Cuáles son los tipos de acceso a datos que puede manejar una clase en C++?
+¿cómo se define una clase en C++?
+¿Cómo se le denomina a la función que recibe y modifica y la que regresa los datos?
+¿Establecer las condiciones necesarias y reservar recursos dentro de la memoria es el? 
+¿solo Crea y escribe datos en archivos en C++, es?
+¿solo lee el contenido de archivos en C++ ,es?
+¿crear, leer y escribir en archivos en C++ ,es? 
+¿Es una función que se define en términos de si misma, es? 
+¿Retirar de la memoria al objeto y liberar los recursos que habían reservado?
+¿En la asociación de objetos como se llaman a las relaciones?
+¿Cuánto es aproximadamente  la cantidad de memoria de pila para un Programa en una computadora promedio?
+¿Cuales son los tipos de memoria que se utilizan en la programacion orientada a objetos en C++?
+¿Tipo de memoria donde  de forma predeterminada se colocan cada variable u objeto, es?
+¿En C++ cual es el operador que devuelve la dirección de memoria ?
+¿En C++ cual es el operador de desreferencia ?
+¿Cuáles son 2 formas en la que se le pasan los argumentos a las funciones ?
+¿Tipo de memoria que se reserva en tiempo de ejecución y su tamaño puede variar en tiempo de ejecución?
+¿No desasignar explícitamente la memoria dinamica genera?
+¿Toma el primer elemento del vector y compara con las posiciones intercambiando elementos adyacentes desordenados,Este es?
